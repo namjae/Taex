@@ -36,7 +36,7 @@ defmodule Taex.Mixfile do
   # Type "mix help deps" for more examples and options
   defp deps do
     [
-      {:statistics, "~> 0.4.0"},
+      {:statistics, "~>  0.6.2"},
       {:ex_doc, "~> 0.14", only: :dev, runtime: false}
     ]
   end
